@@ -1,4 +1,4 @@
-[![MasterHead](https://www.elmhurst.edu/wp-content/uploads/2019/11/software-developer-vs-software-engineer-illustration.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Yağmur Işık</h1>
 <h3 align="center">Junior Full-Stack Developer</h3>
